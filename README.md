@@ -47,6 +47,3 @@ decomposes the work, tests it, and ships it — card by card, on your kanban boa
 
 Souls are plain markdown at `<profile-dir>/SOUL.md`. Rename bots, tighten boundaries,
 add intake filters. Keep souls short: a soul is a contract, not a manual.
-
-> This pack is the free tier. The full doctrine + installer walkthrough + updates tier
-> is available as a paid add-on.
