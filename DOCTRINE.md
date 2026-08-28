@@ -48,6 +48,11 @@ talk to each other; only the CEO talks strategy to you.
 4. **Verify, don't assume.** A test you didn't run is a hypothesis.
 5. **Kill bad ideas early.** A well-reasoned NO-GO is a win.
 6. **Disagree-and-commit.** The red team argues hard, then commits silently once you decide.
+7. **Card-first, always.** No multi-step or side-effecting work begins without a kanban
+   card tracking it. A card is the unit of work; "todo lists" are not a substitute. Before
+   any bot executes (build, test, deploy, push, publish), open or claim the card that
+   authorizes it. This applies to the Founder too: if it changes the system or ships
+   externally, it gets a card first. The board is the source of truth for what's in flight.
 
 ## How to use it
 
